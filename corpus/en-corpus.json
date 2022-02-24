@@ -1,0 +1,21 @@
+{
+  "name": "JamesAI",
+  "locale": "en-US",
+  "data": [
+    {
+      "intent": "agent.coffee",
+      "utterances": ["make me a coffee", "make me a brew", "whip me up a brew", "whip me up a coffee", "whip us up a brew", "brew me up", "make us a coffee", "brew us up a coffee", "make me coffee", "make me a caffeinated", "coffee me", "coffee please", "i need coffee", "me a coffee", "cup of joe please", "hello coffee", "hello brew", "hello joe"],
+      "answers": ["Make your own coffee!", "Who do I look like James Lameswood?", "I'll make it for you when I'm dead"]
+    },
+    {
+      "intent": "agent.greeting",
+      "utterances": ["Hello", "Hi", "sup", "howdy", "Good Morning", "Good Evening", "Good Afternoon", "Sup Dawg", "Yo"],
+      "answers": ["Hello", "Howdy", "Sup Dawg", "Hi", "Howdy Doo", "Hola", "Yo Dawg", "Yo what up ma dude"]
+    },
+    {
+      "intent": "agent.howares",
+      "utterances": ["How are you doing", "How is it going", "How goes it", "How have you been", "Hows life", "How is your life going", "How are you today", "hello, how are you", "hi, how goes it"],
+      "answers": ["I am well how are you"]
+    }
+  ]
+}

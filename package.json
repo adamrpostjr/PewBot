@@ -1,0 +1,17 @@
+{
+  "name": "MatrixBot-Skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nlpjs/basic": "^4.22.18",
+    "axios": "^0.26.0",
+    "matrix-js-sdk": "^15.5.0",
+    "node-localstorage": "^2.2.1",
+    "olm": "https://packages.matrix.org/npm/olm/olm-3.2.1.tgz",
+    "syllables": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
